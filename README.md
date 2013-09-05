@@ -3,11 +3,13 @@ quadprog
 
 This is a modified version of QuadProg++, necessary to compile ORCISIR.
 
-http://sourceforge.net/projects/quadprog
-http://wiki.icub.org/wiki/UPMC_iCub_project/Installing_ORCISIR
+Original project: http://sourceforge.net/projects/quadprog
 
-Standard installation procedure:
-----------------------------------
+About ORCISIR: http://wiki.icub.org/wiki/UPMC_iCub_project/Installing_ORCISIR
+
+
+Installation
+------------
 
 ```bash
 mkdir build
